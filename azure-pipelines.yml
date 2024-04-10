@@ -1,0 +1,6 @@
+
+pool: devops
+
+steps:
+- script: hostname
+  
